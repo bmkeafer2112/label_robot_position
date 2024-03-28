@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Denso_Data_Clean_Label", "Denso_Data_Clean_Label.pyproj", "{BBFBF1F8-D54A-47EF-9D14-770D11E49CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBFBF1F8-D54A-47EF-9D14-770D11E49CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFBF1F8-D54A-47EF-9D14-770D11E49CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0643ADD-5DAF-46B8-BB74-499D1ABC1A14}
+	EndGlobalSection
+EndGlobal
